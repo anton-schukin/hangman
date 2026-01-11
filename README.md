@@ -1,3 +1,3 @@
 # Day 8 - Hangman
 
-Link: https://antonioooooooooooo.github.io/hangman/
+Link: https://anton-schukin.github.io/hangman/
